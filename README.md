@@ -58,3 +58,6 @@ npm run dev
   компьютерах это может занять много времени.
 
 https://www.figma.com/file/wHd8CYFAXNvKNMRZhKld8h/CoffeeStyle
+
+header - Andrey hero - Lera story - Oksana featured mugs - Vitaliy products - Vova proposition -
+Lilia
